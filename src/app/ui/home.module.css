@@ -1,0 +1,21 @@
+.modal {
+    background: hsla(206, 100%, 97%, 1);
+    background: linear-gradient(90deg, hsla(206, 100%, 97%, 1) 0%, hsla(204, 100%, 99%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(206, 100%, 97%, 1) 0%, hsla(204, 100%, 99%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(206, 100%, 97%, 1) 0%, hsla(204, 100%, 99%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#EFF8FF", endColorstr="#FAFDFF", GradientType=1 );
+  }
+
+.login {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.dashboard {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.modal img {
+  width: 100%;
+  
+}
+

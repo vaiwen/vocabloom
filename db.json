@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "6CFeC4saEFwIWIiGOJvFV",
+      "email": "deneme@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "Y4LJnJBPiNIXv6USfpiEt",
+      "email": "barisglsln@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "words": [
+    {
+      "id": "AweGN4VZk88OjNwIlSzrF",
+      "userId": "6CFeC4saEFwIWIiGOJvFV",
+      "english": "apple",
+      "turkish": "elma"
+    },
+    {
+      "id": "cj_13HGqOtcRokPXTpZNu",
+      "userId": "6CFeC4saEFwIWIiGOJvFV",
+      "english": "software",
+      "turkish": "yazılım"
+    },
+    {
+      "id": "aiOObi-J4kqBJpHAVv-Ir",
+      "userId": "6CFeC4saEFwIWIiGOJvFV",
+      "english": "april",
+      "turkish": "nisan"
+    }
+  ]
+}
